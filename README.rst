@@ -1,4 +1,4 @@
-``python-pushover`` aims at providing comprehensive Python bindings for the API
+``python-pushover2`` aims at providing comprehensive Python bindings for the API
 of the `Pushover Notification Service`_ as documented here__.
 
 .. _Pushover Notification Service: https://pushover.net/ 
