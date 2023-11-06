@@ -4,9 +4,9 @@ of the `Pushover Notification Service`_ as documented here__.
 .. _Pushover Notification Service: https://pushover.net/ 
 .. __: https://pushover.net/api
 
-** This is a fork of python-pushover with patches for Python 3 **
+**This is a fork of python-pushover with patches for Python 3**
 
-** No other changes have been made **
+**No other changes have been made**
 
 Installation
 ------------
